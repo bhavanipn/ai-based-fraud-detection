@@ -93,8 +93,7 @@ This repository and the datasets within it are licensed under the MIT License. S
 
 This project is currently maintained by SUMMARY, a Software Engineer with 3+ years of professional experience in developing scalable, enterprise-grade applications. Proficient in Python for data analysis and automation, SUMMARY has a strong background in machine learning applications and system design.
 
-- **Name:** SUMMARY
+- **Name:**  Naga Bhavani Puvvala 
 - **Title:** Software Engineer
 - **Email:** nagabhavanipuvvala21@gmail.com
-- **LinkedIn:** https://linkedin.com/in/naga-bhavani-652753225
 - **Key Skills:** Python (Pandas), Google Cloud (BigQuery), Data Extraction & Automation (Python)
